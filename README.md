@@ -8,3 +8,4 @@ Batch scripts to handle Window tasks
 - ren_dir_space-to-underscore.bat: rename all subfolders from " " to "_" (useful for tracing file)
 - split_file.bat: split large file to compressed files using WinRAR
 - copy_specific-files-folders/: workspace to copy files and folders specified in filelist.txt to output/
+- KeepAwake_forever/: keep computer awake forever
