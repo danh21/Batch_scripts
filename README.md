@@ -11,3 +11,4 @@ Batch scripts to handle Window tasks
 - KeepAwake_forever/: keep computer awake forever
 - KeepAwake_specific/: keep computer awake until target time (useful for check-in check-out with specified time)
 - del_files_recursive.bat: delete all files recursively in current folder (useful for copying same structure folder but different file)
+- ren_append-suffix_files.bat: rename all files in current folder, append suffix to filename
