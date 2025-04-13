@@ -9,3 +9,4 @@ Batch scripts to handle Window tasks
 - split_file.bat: split large file to compressed files using WinRAR
 - copy_specific-files-folders/: workspace to copy files and folders specified in filelist.txt to output/
 - KeepAwake_forever/: keep computer awake forever
+- KeepAwake_specific/: keep computer awake until target time (useful for check-in check-out with specified time)
